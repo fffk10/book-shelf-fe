@@ -1,0 +1,74 @@
+{
+  "kind": "books#volume",
+  "id": "SuFLDwAAQBAJ",
+  "etag": "Wid5fWE9KU4",
+  "selfLink": "https://books.googleapis.com/books/v1/volumes/SuFLDwAAQBAJ",
+  "volumeInfo": {
+    "title": "React入門 React・Reduxの導入からサーバサイドレンダリングによるUXの向上まで",
+    "authors": [
+      "穴井宏幸",
+      "柴田和祈",
+      "石井直矢",
+      "三宮肇"
+    ],
+    "publisher": "翔泳社",
+    "publishedDate": "2018-02-19",
+    "description": "Webアプリケーションを高速で動作させる！ Reactの概念からデプロイまでモダンWebアプリケーション開発の全体像がわかる！ 本書はWebアプリケーション開発で、 人気を博しているReactについて解説した書籍です。 ReactはFacebookがリリースしたJavaScriptのライブラリで、 Webアプリケーションをネイティブアプリケーションのように、 動作させるために開発されました。 本書は、以下のような構成となっています。 第1章：Reactを扱うために重要な概念となるRedux・Fluxの解説をします。 第2章：create-react-appを使ったインストール方法を解説しReactを導入します。 第3章：Reactで使用するJSXの文法を紹介します。 第4章：Reactの基本となるコンポーネント指向について解説します。 第5章：アプリケーションの状態を管理します。 第6章：画面遷移についてrouterを学びます。 第7章：middlewareを実装していきます。 第8章：SPAでは必須の非同期処理について解説します。 第9章：UIについて学び、アニメーションを実装していきます。 第10章：より実践的なアプリケーションを作成し、開発の流れを学びます。 第11章：Webアプリケーション開発に必須のテストについて解説します。 第12章：開発したアプリケーションを公開できるようにデブロイについて学びます。 第13章：よりよいアプリケーションにするためにサーバサイドレンダリングについて解説します。 インストールの解説から、 チュートリアルを通したコードの説明など、 Reactを用いた開発がはじめての方でも 安心して入門することができます。 また情報が少ないテストやデプロイ、 またUI/UXの適切な設定など実際の開発の現場で、 役立つ事柄についても詳しく説明しています。 これから迅速なWebアプリケーションを作成する必要がある方や、 最新のフロントエンドの事情をくわしく知りたい方におすすめの一冊です。 【本書の特長】 ●Reactの基本から応用まで実践的に学べる ●Reactを扱うための概念や手法を学べる ●UI/UX・テスト・デプロイなど本格的にReactを学べる",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_13",
+        "identifier": "9784798153353"
+      },
+      {
+        "type": "ISBN_10",
+        "identifier": "4798153354"
+      }
+    ],
+    "readingModes": {
+      "text": false,
+      "image": true
+    },
+    "pageCount": 314,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.28.0.0.preview.1",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=SuFLDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=SuFLDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "ja",
+    "previewLink": "http://books.google.co.jp/books?id=SuFLDwAAQBAJ&printsec=frontcover&dq=React&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.co.jp/books?id=SuFLDwAAQBAJ&dq=React&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/React%E5%85%A5%E9%96%80_React_Redux%E3%81%AE%E5%B0%8E%E5%85%A5%E3%81%8B%E3%82%89.html?hl=&id=SuFLDwAAQBAJ"
+  },
+  "saleInfo": {
+    "country": "JP",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+  },
+  "accessInfo": {
+    "country": "JP",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.co.jp/books/download/React%E5%85%A5%E9%96%80_React_Redux%E3%81%AE%E5%B0%8E%E5%85%A5%E3%81%8B%E3%82%89-sample-pdf.acsm?id=SuFLDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=SuFLDwAAQBAJ&hl=&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  },
+  "searchInfo": {
+    "textSnippet": "Webアプリケーションを高速で動作させる！ Reactの概念からデプロイまでモダンWebアプリケーション開発の全体像がわかる！ 本書はWebアプリケーション開発で、 ..."
+  }
+}
